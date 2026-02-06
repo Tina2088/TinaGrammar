@@ -1,0 +1,7 @@
+{
+  "name": "TinaGrammar ",
+  "description": "An interactive English grammar practice platform for middle school students, featuring complex sentence structures, instant feedback, and AI-powered grammar explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
